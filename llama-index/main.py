@@ -1,9 +1,9 @@
 import streamlit as st
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from motor import run_agency
 import time
 
-load_dotenv()
+# load_dotenv()
 
 st.title("FWK Marketing Agency")
 
